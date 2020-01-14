@@ -1,5 +1,3 @@
-
-
 class Song 
   attr_reader :name, :author, :title
   @@all = []
